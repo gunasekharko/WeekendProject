@@ -63,3 +63,4 @@ D:\c#\weekend\obj\Debug\net9.0\refint\weekend.dll
 D:\c#\weekend\obj\Debug\net9.0\weekend.pdb
 D:\c#\weekend\obj\Debug\net9.0\weekend.genruntimeconfig.cache
 D:\c#\weekend\obj\Debug\net9.0\ref\weekend.dll
+D:\c#\weekend\obj\Debug\net9.0\weekend.sourcelink.json
